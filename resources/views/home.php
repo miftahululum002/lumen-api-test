@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>API Cerdikin</title>
+	<title>API Pustaka</title>
 </head>
 <body>
 	<pre>No context-path matches the request URI</pre>
